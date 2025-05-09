@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on [Capstone project](https://github.com/Atahmez/CSC311-Banking-System)
 
 - 🌱 I’m currently learning **Rust coding**
+![image](https://github.com/user-attachments/assets/2bcfdc94-260c-4756-81e6-3b409535540b)
 
 - 👯 Another project i'm working on [Card game](https://github.com/Atahmez/Cards)
 
